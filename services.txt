@@ -1,0 +1,9 @@
+[
+    {
+        "registration_number": "MH12AB1234",
+        "owner": "aman",
+        "vehicle": "car",
+        "service": "Oil Change",
+        "status": "Pending"
+    }
+]
